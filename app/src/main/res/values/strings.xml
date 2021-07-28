@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ApplicationLanch</string>
+    <string name="text_main_welcome">Добро пожаловать!</string>
+    <string name="text_hint_main_name">Введите логин</string>
+    <string name="text_hint_main_password">Введите пароль</string>
+    <string name="text_main_btn">СДЕЛАТЬ ЗАКАЗ</string>
+    <string name="text_main_description">Логотип</string>
+    <string name="toast_main_clean_login_or_password">Поля логина и пароля не заполнены</string>
+    <string name="text_textview_menu_hallo">Привет, Андрей что желаете?</string>
+    <string name="text_radiobutton_menu_tea">Чай</string>
+    <string name="text_radiobutton_menu_coffee">Кофе</string>
+    <string name="text_textview_menu_what">Что добавить в ваш заказ?</string>
+    <string name="text_checkbox_menu_milk">Молоко</string>
+    <string name="text_checkbox_menu_sugar">Сахар</string>
+    <string name="text_checkbox_menu_lemon">Лимон</string>
+    <string name="text_textview_menu_type_drink">Выберите вид напитка</string>
+
+    <string name="text_main_hello_one">Привет</string>
+    <string name="text_main_hello_two">что желаете?</string>
+    <string name="text_main_what_dop">Что добавить в ваш %s?</string>
+    <string name="text_menu_order_drink">Имя: %s\nПароль: %s\nНапиток: %s\nВид напитка: %s\n</string>
+    <string name="text_menu_dop">Необходимые добавки: %s</string>
+
+    <string-array name="type_drink_coffee">
+        <item>Латте</item>
+        <item>Капучино</item>
+        <item>Американо</item>
+    </string-array>
+
+    <string-array name="type_drink_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+    </string-array>
+</resources>
